@@ -1,0 +1,12 @@
+ENC28J60 Module
+******************
+Wire up as following (ENC = module side):
+- ENC SO -> Arduino pin 12
+- ENC SI -> Arduino pin 11
+- ENC SCK -> Arduino pin 13
+- ENC CS -> Arduino pin 8
+- ENC VCC -> Arduino 3V3 pin
+- ENC GND -> Arduino Gnd pin
+
+TF SDCard Module
+*****************
